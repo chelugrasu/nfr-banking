@@ -1,7 +1,20 @@
+
 # NFR Banking
-A banking system inspired by a Behance project.
-Made for vRP.
 
-For support contact **NFR#1824** or **gush3l#6016**!
+A banking system inspired by a Behance project. Made for vRP.
 
-**Preview:** https://streamable.com/u5vyrd
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/Rmfr2o6.png) 
+
+![App Screenshot](https://i.imgur.com/yeXntPB.png)
+
+
+##  Preview https://streamable.com/u5vyrd
+
+
+## Support
+
+For support, add me on discord @cag_nfr .
+
